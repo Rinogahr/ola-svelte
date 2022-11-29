@@ -1,7 +1,6 @@
 <script lang="ts">
     import Botao from "../botaoComponents/Botao.svelte";
     import Linha from "../Linacomponents/Linha.svelte";
-
 </script>
 
 <div class="calculadora">
